@@ -40,7 +40,7 @@ A conversational AI assistant for restaurants, built with Python and Google's Ge
 
 ---
 
-## Code on GitHub 👩‍💻
+## Medium 👩‍💻
 
-Check out the full code [here](https://github.com/Masoud-Hatami/restaurant-ai-assistant). Feel free to fork and improve!
+Check out the full code [here](https://medium.com/@hatamimasoud08/building-a-conversational-ai-restaurant-assistant-with-python-and-gemini-2-0-4dfa07b10b48). Feel free to fork and improve!
 
