@@ -1,4 +1,4 @@
-# Restaurant AI Assistant 🍕🤖
+# simple voice AI Restaurant AI Assistant 🍕🤖
 
 A conversational AI assistant for restaurants, built with Python and Google's Gemini model. It takes orders, answers questions, and interacts with customers using voice commands.
 
